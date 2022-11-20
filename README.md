@@ -7,19 +7,30 @@ In this language, you are able to create variables, perform mathmatical operatio
 # Similarities to Java
 
 Here is some Java Comparisons to get you started on learning this language.
+
 Java -> YashLang
+
 byte -> int_1
-     -> int_2
+
+N/A -> int_2
+     
 int  -> int_4
+
 long -> int_8
+
 for  -> flower
+
 while -> water
+
 if -> cond
+
 else -> or
+
 class { } -> START END
 
 # Grammar of the Language
 
+```
 <Program> -> START <stmt_list> END
 
 <stmt_list> -> <stmt>
@@ -43,7 +54,7 @@ class { } -> START END
 <expr> - <term> + <term> |  <term> - <term>
 <term> - <factor> * <factor> | <factor> / <factor>
 <factor> - [<expr>] | num | id
-
+```
 
 
 # Syntax
