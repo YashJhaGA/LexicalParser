@@ -1,0 +1,11 @@
+STAR
+int_3 thisVariable
+water notVar1able < 10
+cond 10 < 15
+g %= 10
+donc
+or
+g *= 15
+ro
+retaw
+END

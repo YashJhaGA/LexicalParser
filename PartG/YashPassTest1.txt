@@ -1,0 +1,7 @@
+START
+int_8 greener
+greener = 5
+flower 0 10 2
+greener = greener * [ 1 + 2 ]
+rewolf
+END

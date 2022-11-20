@@ -1,0 +1,7 @@
+START
+int_4 numbers
+numbers ++
+water < numbers -- 
+cond 1 < 5
+numbers = 10 -- [ 5 %  3 ]
+END

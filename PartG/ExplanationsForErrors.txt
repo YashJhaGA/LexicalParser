@@ -1,0 +1,19 @@
+Here I will explain each error for the 2 files - "YashLexTest.txt" and "YashSyntaxTest.txt"
+
+For "YashLexTest.txt", it has at least 5 Lexical Errors. Here they are:
+LINE 1- STAR is not a token in our language. We are looking for STAR
+LINE 2- int_3 is not a token type in our language. Only int_1, int_2, int_4, and int_8
+LINE 2- thisVariable is 12 characters long, We only allow 6-8 characters.
+LINE 3- notVariable was never declared. And also it's too long of a name. And it contains a number
+LINE 5- %= is not a valid token in our language. The only ones we have are += and -= for increment/decrement and assigning
+LINE 8- *= is also not a token. The only ones we have are += and -= for increment/decrement and assigning.
+
+
+For "YashSyntaxTest.txt", we have at least 5 syntax errors. Here they are:
+LINE 3- Performing increment on a declared, but never initialized value.
+LINE 4- water requires a boolean expression. We only have "" < numbers --
+LINE 4- numbers -- is still a invalid syntax on a never initialized variable.
+LINE 6- 10 -- is not a valid operation. You can only perform decrement on a initalized variable.
+LINE 7? - cond requires a "donc" token to complete the statement. It is not there.
+Line 8?- water requires a "retaw" token to complete the statement. It is not there.
+

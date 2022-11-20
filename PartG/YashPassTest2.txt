@@ -1,0 +1,10 @@
+START
+int_8 purple
+purple = 12
+cond purple > 15
+purple = purple + 4
+donc
+or
+purple = purple - 4
+ro
+END
