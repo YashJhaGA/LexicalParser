@@ -12,7 +12,7 @@ Java -> YashLang
 
 byte -> int_1
 
-N/A -> int_2
+short -> int_2
      
 int  -> int_4
 
